@@ -6,9 +6,9 @@ This website talks about TV shows that we enjoy that tackle important topics tha
 ## H2 Outline
 - Home: Introduction of website + TV shows to talk about + short description of each (put a picture of the TV show for the user to click to redirect to other pages)
 - Page 1: Bad and Crazy (K-Drama about corruption and trauma)
-- Page 2: The Legend of Korra (animated series with antagonists believing in different government systems)
+- Page 2: The Legend of Korra (animated series about a protagonist's beliefs being challenged by her four antagonists' ideologies: socialism, theocratism, anarchism, and fascism)
 - Page 3: Devil Judge (K-Drama about social classes and trauma)
-- Page 4: Arcane (show about lesbians)
+- Page 4: Arcane (animated show about how different relationships (familial and romantic) are tested by oppressive capitalistic systems.)
 - Page 5: Acknowledgements, credits, etc.
     
 ## H2 Wireframe
