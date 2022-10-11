@@ -1,0 +1,36 @@
+  body, h1 {font-family: "Montserrat", sans-serif}
+  * {box-sizing: border-box}
+
+  #desc {
+    width: 20%;
+    float: left;
+    margin-left: 40px;
+  }
+
+  #nav {
+    width: 70%;
+    float: left;
+    margin-left: 26px;
+    margin-top: 20px;
+  }
+
+  figure {
+    float: left;
+  }
+
+  #container {
+  width: 80%;
+  margin: 10px auto;
+  overflow: auto;
+}
+
+  #container div {
+    box-sizing: border-box;
+    float: left;
+    margin: auto;
+    padding: 5px top;
+    width: 33%;
+    overflow: hidden;
+    text-align: center;
+    font-size: 50%;
+  }
