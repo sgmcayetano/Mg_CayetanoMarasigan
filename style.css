@@ -18,19 +18,44 @@
     float: left;
   }
 
-  #container {
-  width: 80%;
-  margin: 10px auto;
-  overflow: auto;
-}
-
-  #container div {
-    box-sizing: border-box;
-    float: left;
+  #homepage {
+    width: 90%;
+    float: center;
     margin: auto;
+    overflow: hidden;
+  }
+
+  #container {
+    width: 90%;
+    margin: 0%, auto;
+    overflow: hidden;
+  }
+
+  #container div a {
+    float: center;
+    margin: 10px;
     padding: 5px top;
-    width: 33%;
+    width: 20%;
     overflow: hidden;
     text-align: center;
     font-size: 50%;
   }
+
+  #container div b {
+    float: center;
+    margin: 10px;
+    padding: 5px top;
+    width: 40%;
+    overflow: hidden;
+    text-align: center;
+    font-size: 50%;
+  }
+
+  #container div c {
+    float: center;
+    margin: 10px;
+    padding: 5px top;
+    width: 15%;
+    overflow: hidden;
+    text-align: center;
+    font-size: 50%;
